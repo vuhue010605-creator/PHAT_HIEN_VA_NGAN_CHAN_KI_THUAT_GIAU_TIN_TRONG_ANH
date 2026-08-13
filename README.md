@@ -31,6 +31,6 @@
 │   └── run_log.txt         # Log ghi lại lịch sử chạy thử nghiệm
 ├── slides/                 # Slide thuyết trình báo cáo đề tài
 ├── src/                    # Mã nguồn chính của dự án
-│   ├── benchmark.py        # Script chạy đánh giá & đo lường hiệu năng các kỹ thuật
-│   └── get-pip.py          # Script hỗ trợ cài đặt môi trường
+│   ├── Form1.Designer.cs   
+│   └── Form1.cs            
 └── README.md               # File thông tin dự án
