@@ -1,1 +1,10 @@
-
+https://antoanthongtin.vn/tin/gioi-thieu-ve-ky-thuat-giau-thong-tin
+https://www.kaspersky.com/resource-center/definitions/what-is-steganography
+https://www.quora.com/How-different-are-steganography-encryption-cryptography-from-each-other
+https://www.geeksforgeeks.org/image-steganography-in-cryptography/ 
+https://elib.vnuf.edu.vn/bitstream/123456789/1498/1/Nghien%20cuu%20mot%20so%20ky%20thuat%20phat%20hien%20anh%20giau%20tin.pdf 
+https://en.wikipedia.org/wiki/Color_depth
+https://en.wikipedia.org/wiki/Digital_image
+https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-bitmapinfoheader 
+https://www.daubnet.com/en/file-format-bmp
+https://ttnguyen.net/cau-truc-header-cua-file-bmp/
